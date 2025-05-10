@@ -11,4 +11,3 @@ def read_users_me(user: User = Depends(get_active_user)):
 @router.get("/users/me/items/")
 def read_own_items(user: User = Depends(get_active_user)):
     return [{"item_id": "Foo", "owner": user.username}]
-#n
