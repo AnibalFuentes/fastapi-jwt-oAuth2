@@ -1,4 +1,3 @@
-Aquí tienes un archivo README detallado para tu proyecto de FastAPI con JWT, Docker y entorno virtual. Incluye explicaciones y comandos de instalación y ejecución.
 
 ---
 
